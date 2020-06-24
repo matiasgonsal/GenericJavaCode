@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Start Confluence:
+cd: /Users/matiasgonsalves/ConfluentPlatform/examples/cp-all-in-one
+Start Confluent: docker-compose up -d --build
+http://localhost:9021/
+
+Stop Confluent: docker container stop $(docker container ls -a -q -f "label=io.confluent.docker")
+
+Java Doc: https://docs.confluent.io/current/clients/java.html
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

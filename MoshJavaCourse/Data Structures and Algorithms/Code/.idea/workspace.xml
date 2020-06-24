@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f89a891-2aa4-4aa5-9cbd-7e8d29edb994" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5LsNLgLGWP7Hfull8Dv3PPUKu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Stacks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LinkedList.Main" />
+      <module name="DataStructureAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Stacks.Main" />
+      <module name="DataStructureAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.Main" />
+      <module name="DataStructureAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f89a891-2aa4-4aa5-9cbd-7e8d29edb994" name="Default Changelist" comment="" />
+      <created>1582227714931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582227714931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1583279378847">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583279378847" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1583279378846">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1583279378846" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1583279378845">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1583279378845" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1583279378846">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1583279378846" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1583278794526">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583278794526" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1583278794525">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1583278794525" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1583278794525">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1583278794525" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1583278794526">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1583278794526" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1583340079505">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1583340079505" />
+    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup" timestamp="1582677818704">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="385" y="177" width="670" height="676" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1582677818704" />
+  </component>
+</project>

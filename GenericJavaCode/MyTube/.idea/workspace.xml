@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ecd8a71-d8df-4f00-bc34-ebbc21dc3ca4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPaS5amkY9zlOAARDYdekdjO0O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.NextGreaterElement">
+    <configuration name="Matches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.problem.Matches" />
+      <module name="GenericJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MultiThreading.MultiThreadingMain" />
+      <module name="GenericJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.MultiThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.problem.NextGreaterElement" />
+      <module name="GenericJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.StreamsMain" />
+      <module name="GenericJavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NextGreaterElement" />
+        <item itemvalue="Application.Matches" />
+        <item itemvalue="Application.MultiThreadingMain" />
+        <item itemvalue="Application.StreamsMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ecd8a71-d8df-4f00-bc34-ebbc21dc3ca4" name="Default Changelist" comment="" />
+      <created>1580950179588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580950179588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1581365483494">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1581365483494" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1586216910136">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830/-1920.-72.1920.1057@0.23.1440.830" timestamp="1586216910136" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585200134735" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1586216910135">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830/-1920.-72.1920.1057@0.23.1440.830" timestamp="1586216910135" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1585200134734" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1586216910135">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830/-1920.-72.1920.1057@0.23.1440.830" timestamp="1586216910135" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1585200134734" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1586216910136">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830/-1920.-72.1920.1057@0.23.1440.830" timestamp="1586216910136" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1585200134735" />
+    <state x="208" y="23" width="1024" height="830" key="SettingsEditor" timestamp="1580950239090">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="208" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1580950239090" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1585958405527">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830/-1920.-72.1920.1057@0.23.1440.830" timestamp="1585958405527" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1585246845591" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581374195218">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.830@0.23.1440.830" timestamp="1581374195218" />
+    <state x="114" y="60" key="new project wizard" timestamp="1581546875029">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="114" y="60" key="new project wizard/0.23.1440.830@0.23.1440.830" timestamp="1581546875029" />
+  </component>
+</project>

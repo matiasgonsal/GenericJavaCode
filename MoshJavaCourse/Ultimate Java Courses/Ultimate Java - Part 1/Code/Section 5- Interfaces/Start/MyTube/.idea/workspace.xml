@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="538db75f-4f5e-4934-ae31-54ae2782e039" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3QX117xsF7BovaFuypesjFVfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.collections" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamsMain">
+    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambda.LambdaMain" />
+      <module name="MyTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.MainQueues" />
+      <module name="MyTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.MainSets" />
+      <module name="MyTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.problem.Matches" />
+      <module name="MyTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.StreamsMain" />
+      <module name="MyTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamsMain" />
+        <item itemvalue="Application.Matches" />
+        <item itemvalue="Application.LambdaMain" />
+        <item itemvalue="Application.MainSets" />
+        <item itemvalue="Application.MainQueues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538db75f-4f5e-4934-ae31-54ae2782e039" name="Default Changelist" comment="" />
+      <created>1578375833312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578375833312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579832368186">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1579832368186" />
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1580943065404">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1580943065404" />
+    <state x="494" y="330" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580511621978">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="494" y="330" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.830@0.23.1440.830" timestamp="1580511621978" />
+    <state x="349" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578382041610">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="349" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.830@0.23.1440.830" timestamp="1578382041610" />
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579725992799">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="458" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1579725992799" />
+    <state x="100" y="123" width="1240" height="630" key="DiffContextDialog" timestamp="1580790532872">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="123" width="1240" height="630" key="DiffContextDialog/0.23.1440.830@0.23.1440.830" timestamp="1580790532872" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1580949461423">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1580949461423" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1580949461422">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1580949461422" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1580949461421">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1580949461421" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1580949461422">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1580949461422" />
+    <state x="229" y="23" width="1024" height="830" key="SettingsEditor" timestamp="1580949177821">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="229" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1580949177821" />
+    <state x="399" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1580949006383">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="399" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1580949006383" />
+  </component>
+</project>
