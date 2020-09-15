@@ -1,0 +1,20 @@
+import com.droolsexample.test.Dog;
+
+no-loop true
+salience 5
+
+rule "Life Expectancy Doberman"
+when
+  currentDogInstance:Dog (breed == 'DOBERMAN')
+then
+  currentDogInstance.setAge_expectancy(14);
+  update (currentDogInstance);
+end
+
+rule "Life Expectancy Bulldog"
+when
+  currentDogInstance:Dog (breed == 'BULLDOG')
+then
+  currentDogInstance.setAge_expectancy(9);
+  update (currentDogInstance);
+end

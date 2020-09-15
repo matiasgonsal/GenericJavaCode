@@ -1,0 +1,11 @@
+import com.droolsexample.test.Dog;
+
+salience 1
+
+rule "Long Life"
+when
+  $dog:Dog (age_expectancy >= 12)
+then
+  $dog.setLongLife(true);
+  update ($dog);
+end
