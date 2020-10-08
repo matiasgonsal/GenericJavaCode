@@ -1,0 +1,84 @@
+REST
+Java
+Amazon Web Service (AWS)
+AWS Lambda
+AWS SQS
+Docker
+Cassandra
+Apache Kafka
+Git
+JIRA
+
+
+REST:
+Representational State Transfer
+ Restful Applications are Stateless.
+ We don't have to reserve server memory to store anything. The client execute actions to be made by the server trough the rest calls.
+ Client - Server
+ Resources
+ GET - POST - OUT
+
+
+Java Basic
+Static variables changes for all the objects of the class. They are specified in the class loader.
+Use an object to access a static variable is not needed, you can use just the class name to access static attributes.
+
+What Are the Functions of JVM and JRE?
+JVM provides a runtime environment for Java Byte Codes to be executed. JRE includes sets of files required by JVM during runtime.
+
+What Is the Difference Between Overloading and Overriding?
+When there are two methods of the same name but different properties, it is overloading.
+Overriding occurs when there are two methods of the same name and properties, one is in the child class and the other is in the parent class
+
+What Is a Package?
+A package is a collection of related classes and interfaces.
+
+What Is the Difference Between equals() and = =  ?
+ Equals() method is used for checking the equality of two objects defined by business logic.
+ == or the equality operator is used to compare primitives and objects.
+
+What is the difference between Local variables and Instance variables?
+ Ans: Local variables are defined in the method and scope of the variables that have existed inside the method itself.
+ An instance variable is defined inside the class and outside the method and scope of the variables exist throughout the class.
+
+What is a interface and how it works?
+An interface is a template which has only method declarations and not the method implementation.
+
+What is an abstract class and how it works?
+An abstract class contains methods declaration but not the implementation.
+The sub-classes extending from an Abstract class must implement all the abstract methods.
+
+Parameters vs Arguments:
+The Argument is the value of a Parameter. We call parameter to the variable that will hold the value (Argument) in a Function or Method.
+
+
+Strings in Java:
+Strings are Immutable in java. They never change when we use a String functions.
+String functions return a new string with the new value instead of change the original one.
+
+Constants:
+Use final to declare constants in java. They are variables that never change.
+
+
+1:30:50 -> Reading Input
+
+
+Java Interview:
+How would you define what a Java Class is? What is a Java Class?
+What is the difference between static and dynamic attributes in a class?
+What Is the Difference Between Overloading and Overriding?
+What is a Constructor and how it works?
+What is the difference between Local variables and Instance variables?
+What is an interface and how it works?
+What is an abstract class and how it works?
+
+Java Class template
+
+
+
+Topic Level Scoring:
+1.0  Deployment: 25%
+2.0  Security: 75%
+3.0  Development with AWS Services: 85%
+4.0  Refactoring: 100%
+5.0  Monitor and Troubleshooting: 0%
