@@ -13,7 +13,6 @@ public class Lecture6 {
   @Test
   public void findAny() throws Exception {
     Integer[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-
   }
 
   @Test
