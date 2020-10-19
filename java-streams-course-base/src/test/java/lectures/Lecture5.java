@@ -10,6 +10,8 @@ import com.google.common.collect.ImmutableList;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+
 import mockdata.MockData;
 import org.junit.Test;
 
@@ -62,6 +64,37 @@ public class Lecture5 {
             .average()
             .orElse(0);
     System.out.println(priceAverage);
+  }
+
+  @Test
+  public void parallelStreams() throws Exception {
+    //Calculate the same execution time with regular an parallel streams.
+    System.out.println("Current Machine Processors: " + Runtime.getRuntime().availableProcessors());
+    long initTime = System.currentTimeMillis();
+    int result = 0;
+    int result2 = 0;
+
+    for (int i = 0; i < 20; i++) {
+      result = IntStream.rangeClosed(0, 100001)
+              .sum();
+    }
+
+    long endTime = System.currentTimeMillis();
+
+    System.out.println("Sum operation on a Stream: " + result);
+    System.out.println("Execution time: " + (endTime - initTime));
+
+    initTime = System.currentTimeMillis();
+    for (int i = 0; i < 20; i++) {
+      result2 = IntStream.rangeClosed(0, 100000)
+              .parallel()
+              .sum();
+    }
+    endTime = System.currentTimeMillis();
+
+    System.out.println("Sum operation on a Stream: " + result2);
+    System.out.println("Execution time: " + (endTime - initTime));
+
   }
 
   @Test
